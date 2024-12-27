@@ -1,0 +1,14 @@
+{
+  "name": "orangehrmtesting",
+  "version": "1.0.0",
+  "description": "final project QA Sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dewiilmir",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
